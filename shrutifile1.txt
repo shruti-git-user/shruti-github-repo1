@@ -2,4 +2,4 @@ Hi Everyone.Good Morning!
 This commit is from singapore regiTt is from singapore region.
 This line of code is for testing poll scm. - 7.55
 updated the timezone in jenkins from UTC to IST
-this is to test triggerbuild remotely
+this is to test triggerbuild remotely - Github hook trigger fot Gitscm polling
